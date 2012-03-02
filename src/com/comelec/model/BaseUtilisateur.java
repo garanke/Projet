@@ -1,4 +1,4 @@
-package com.comelec.actors;
+package com.comelec.model;
 
 public abstract class BaseUtilisateur {
 

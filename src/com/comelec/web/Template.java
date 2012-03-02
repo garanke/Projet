@@ -1,4 +1,4 @@
-package com.comelec.presentation;
+package com.comelec.web;
 
 public class Template {
 	
